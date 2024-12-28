@@ -1,0 +1,26 @@
+body
+{
+background-size: cover;
+}
+
+#heading{
+    font-weight: bold;
+    font-style: italic;
+    color:white;
+    
+}
+
+.button1{
+    float:right;
+    box-shadow:3px white;
+}
+
+#div1{
+    width:100%;
+    height:15%;   
+    margin:0px;
+}
+
+#status_1{
+    box-shadow:3px red;
+}
